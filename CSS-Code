@@ -1,0 +1,94 @@
+body {
+    background-image: url(fotoperdetyren.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    position: absolute;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 180px;
+    margin-left: 700px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: #009879;
+}
+
+.shiriti-jeshil {
+    display: flex;
+    flex-direction: row;
+    padding: 7px;
+    background-color: #009879;
+}
+
+.elementet-jeshil {
+    padding: 15px 25px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    background-color: #009879;
+    color: white;
+    transition: 0.3s;
+}
+
+.elementet-jeshil:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    background-color: #007f67;
+    color: #222222;
+}
+
+.elementi-i-kuq {
+    padding: 15px 25px;
+    background-color: red;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    color: white;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.elementi-i-kuq:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    background-color: darkred;
+    color: #222222;
+}
+
+.shiriti-gri {
+    padding-top: 40px;
+    display: flex;
+    margin-left: 0;
+    margin-right: 10px;
+    padding: 10px;
+    margin-top: 25px;
+    gap: 10px;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.element-gri {
+    background-color: gray;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.6s ease;
+}
+
+.element-gri:hover {
+    transform: translateX(20px);
+    box-shadow: gray;
+}
