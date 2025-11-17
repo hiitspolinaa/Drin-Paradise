@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projekt</title>
+    <link rel="stylesheet" href="Stili.css">
+</head>
+<body>
+    <nav class="shiriti-jeshil">
+        <div class="elementi-i-kuq">Home</div>
+        <div class="elementet-jeshil">Menu</div>
+        <div class="elementet-jeshil">Rezervime</div>
+        <div class="elementet-jeshil">Informacione</div>
+    </nav>
+
+    <h1>Paradise of Drin</h1>
+
+    <div class="shiriti-gri">
+        <div class="element-gri">
+            <a href="https://www.instagram.com/">
+                <img src="logoja1.webp" height="30px" width="30px">
+            </a>
+        </div>
+        <div class="element-gri">
+            <a href="www.gmail.com">
+                <img src="logo2.png" height="30px" width="30px">
+            </a>
+        </div>
+        <div class="element-gri">
+            <a href="www.facebook.com ">
+                <img src="logo3.png" height="30px" width="30px">
+            </a>
+        </div>
+    </div>
+</body>
+</html>
