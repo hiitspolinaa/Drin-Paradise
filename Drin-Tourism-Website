@@ -1,0 +1,26 @@
+Paradise of Drin is a static, visually engaging tourism website designed to showcase the natural beauty and attractions of the Drin region. The project focuses on a clean, modern design with interactive elements to enhance user experience and provide an appealing digital presentation of the region’s landscapes and activities.
+
+Key Features:
+
+Full-page background image: A high-quality scenic image covers the entire viewport, creating an immersive visual experience.
+
+Responsive navigation bar: A green top navigation bar (shiriti-jeshil) with a red highlighted "Home" button (elementi-i-kuq) and additional menu items (elementet-jeshil) featuring hover effects and smooth transitions.
+
+Interactive side menu: Vertical gray menu (shiriti-gri) containing clickable icons, which move slightly on hover (translateX) to indicate interactivity.
+
+Custom typography and styling: The website uses large, italicized headings (h1) with Times New Roman and stylized fonts to highlight the site’s title.
+
+Hover and shadow effects: All menu elements have hover effects and subtle shadows to create depth and responsiveness.
+
+Flexible layout: The website uses CSS Flexbox for arranging navigation and side menus, ensuring clean alignment and spacing.
+
+Technologies Used:
+
+HTML5 – for structure and semantic content.
+
+CSS3 – for styling, hover effects, and responsive design.
+
+Images – background and icons to enrich the interface visually.
+
+Project Status:
+This is a functional static website, suitable as a portfolio project or as a template for promoting tourism in the Drin region. It demonstrates responsive design, interactive UI elements, and modern web styling techniques.
